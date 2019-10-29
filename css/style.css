@@ -1062,12 +1062,7 @@ h1, h2, h3, h4, h5, p,
     background: #002244;
     /* Old browsers */
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, rgba(0, 34, 68, 1) 0%, rgba(106, 198, 240, 1) 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: -o-linear-gradient(45deg, rgba(0, 34, 68, 1) 0%, rgba(106, 198, 240, 1) 100%);
-    background: linear-gradient(45deg, rgba(0, 34, 68, 1) 0%, rgba(106, 198, 240, 1) 100%);
-    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002244', endColorstr='#6ac6f0', GradientType=1);
     border-radius: 100%;
     position: relative;
     z-index: 1;
